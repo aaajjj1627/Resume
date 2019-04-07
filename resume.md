@@ -24,6 +24,12 @@
 项目收获：实现了多人博客的简单功能。对前后端分离开发，加强了认识。<br>
 技术栈：Python，Flask，bootstrap，MySql，Linux<br>
 
+项目名称：各种爬虫的开发<br>
+项目简介：用urllib,urllib2,requests,以及 scrapy 框架爬取各种网站<br>
+项目职责： 个人项目;<br>
+项目收获：实现了各种简单网站的登陆和爬取。对爬虫的学习加强了认识。<br>
+技术栈：Python，urllib，urllib2，requests，scrapy,xpath，bs4,正则,Linux<br>
+
 
 
 教育背景
